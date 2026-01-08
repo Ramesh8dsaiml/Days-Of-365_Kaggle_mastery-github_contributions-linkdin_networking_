@@ -77,9 +77,12 @@ first line of code in python ,  write any program like  print ("hello word" )
 Day 8: learn complete python 
 
 Day 9: Jupyter Notebooks are important for python and AI
+
 -> 1. python file extension .py (like 1.py) and use #for comments outs use shortcut cltr+/ 
 commemt outs means to write the code  and explain  the code and  not run the line of code .
+
 -> to explain each code line of code or provide options 
+
 -> to enable or disable the code \ code chunk 
 ctrl+/ 
 
