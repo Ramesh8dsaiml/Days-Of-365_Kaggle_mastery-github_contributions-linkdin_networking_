@@ -72,5 +72,60 @@ windows operating system  you can create multiple accounts-
 3. connect the vs code
  
 Day 7:
+first line of code in python ,  write any program like  print ("hello word" )
+
+Day 8: learn complete python 
+
+Day 9: Jupyter Notebooks are important for python and AI
+-> 1. python file extension .py (like 1.py) and use #for comments outs use shortcut cltr+/ 
+commemt outs means to write the code  and explain  the code and  not run the line of code .
+-> to explain each code line of code or provide options 
+-> to enable or disable the code \ code chunk 
+ctrl+/ 
+
+2. -> jupyter notebook 
+use 	ipynb - i python notebook 
+
+use jupyter notebooks:
+1. jupyter Lab 
+2. google colab 
+3. kaggle.com 
+4. vs code 
+-> Vs code:  install jupyter lab , ipykernel 
+--------------------------------------------------
+What is PyPI?
+
+PyPI (Python Package Index) is the official repository of Python packages.
+It is a central place where developers publish and share Python libraries.
+What does PyPI do?
+
+PyPI allows you to:
+
+✔ Discover Python packages
+✔ Install libraries using pip
+✔ Manage package versions
+✔ Access documentation and source code
+ex:pip install requests
+
+PyPI vs pip
+
+PyPI → Package repository (storage)
+
+pip → Package manager (installer)
+
+-> install jupyter lab:
+when you can open the python terminal then use !pip install jupyter lab  ! only use jupyter lab 
+and you can use the cmd then run the pip install jupyter lab 
+
+-> google colab :
+goto google chrom and search the google colab and open the jupyter notebook 
+
+-> kaggle.com 
+ : logoin kaggle.com 
+ and open the notebook  its very simple for previously methods 
+
+note :
+ when  you can use jupyter lab in vs code then you face the any problem for selecting kernel then install the (ipykernel pakage ) then solve the selecting kernel problem 
+ 
 
  
