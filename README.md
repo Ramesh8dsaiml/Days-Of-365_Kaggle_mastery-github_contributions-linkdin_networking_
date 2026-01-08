@@ -129,6 +129,9 @@ goto google chrom and search the google colab and open the jupyter notebook
 
 note :
  when  you can use jupyter lab in vs code then you face the any problem for selecting kernel then install the (ipykernel pakage ) then solve the selecting kernel problem 
+
+ Day 11:
+ 
  
 
  
